@@ -91,11 +91,6 @@ gke-project/
 ├── key.json           # Service Account key (secure, never committed)
 
 
-
-Repo Link: https://github.com/Yashaswini-Vuppu/gke-with-terraform/
-
-
-
 #Terraform #GKE #GoogleCloud #Kubernetes #DevOps
 
 #InfrastructureAsCode #Security
